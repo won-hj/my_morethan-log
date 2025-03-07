@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "mangrove_sleet",
+    name: "mangroove_sleet",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "study",
     bio: "almost new to everything.",
@@ -13,14 +13,14 @@ const CONFIG = {
   /*
   projects: [
     {
-      name: `mangrove_sleet`,
-      href: "https://github.com/won-hj/my_morethan-log",
+      name: `mangroove_sleet`,
+      href: "https://github.com/morethanmin/morethan-log",
     },
   ], 
   */
   // blog setting (required)
   blog: {
-    title: "mangrove_sleet",
+    title: "mangroove_sleet",
     description: "welcome to my morethan-log!",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
